@@ -1,0 +1,27 @@
+body{
+    background-color: lavender;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+button{
+    padding: 10px 25px;
+    background-color:lightcoral;
+    border-radius: 2px;
+    cursor: pointer;
+}
+#display{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+    color:forestgreen;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkviolet;
+}
